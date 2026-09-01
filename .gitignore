@@ -1,0 +1,29 @@
+#Vivado ignores
+*.log
+*.jou
+*.str
+*.tmp
+*.xsa
+*.bd
+project_1/
+bd/
+
+#software ignore for vitis tutorial
+software/
+
+#Vitis ignores
+.metadata/
+.cache/
+*.log
+*.jou
+*.elf
+*.o
+*.a
+*.so
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
