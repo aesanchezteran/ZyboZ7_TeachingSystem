@@ -30,12 +30,11 @@ module keypad_deco(
     
     output [3:0] sync_rows,
     output [3:0] state,
-    output valid,
-    
+    output valid,   
     // GPIO Interface definition for the output key
-    (* X_INTERFACE_INFO = "xilinx.com:interface:gpio:1.0 gpio_key TRI_O" *) 
+    //(* X_INTERFACE_MODE = "slave gpio_key" *)
+    //(* X_INTERFACE_INFO = "xilinx.com:interface:gpio:1.0 gpio_key TRI_I" *)
     output [4:0] key,
-    
     output strb
 );
     
