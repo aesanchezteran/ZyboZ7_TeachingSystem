@@ -408,10 +408,6 @@
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">AXI Timer</td>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">64</td>
 </tr>
-<tr style="background-color: #d9e2f3;">
-C:\Users\alber\OneDrive\Pictures\Figuras\Programmable Systems\ZyboTeachingSystem.png<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">XADC</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">65</td>
-</tr>
 <tr>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">GPIO 3</td>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">66</td>
