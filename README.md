@@ -160,7 +160,7 @@
 </table>
 </div>
 <h2 style="margin: 34px 0 12px; color: #1f4e78; font-size: 24px; border-bottom: 2px solid #1f4e78; padding-bottom: 6px;">4. Block Diagram</h2>
-<div style="padding: 24px; border: 2px dashed #9ca3af; background-color: #f8fafc; text-align: center; color: #4b5563; margin-bottom: 20px;"><img src="/content/enforced/330676-202610-1279/ZyboTeachingSystem.png" alt="" title="" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></div>
+<div style="padding: 24px; border: 2px dashed #9ca3af; background-color: #f8fafc; text-align: center; color: #4b5563; margin-bottom: 20px;"><img src="ZyboTeachingSystem.png" alt="" title="" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></div>
 <h2 style="margin: 34px 0 12px; color: #1f4e78; font-size: 24px; border-bottom: 2px solid #1f4e78; padding-bottom: 6px;">5. System Memory Map</h2>
 <div style="overflow-x: auto; margin-bottom: 20px;">
 <table style="width: 100%; min-width: 620px; border-collapse: collapse;">
@@ -409,7 +409,7 @@
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">64</td>
 </tr>
 <tr style="background-color: #d9e2f3;">
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">XADC</td>
+C:\Users\alber\OneDrive\Pictures\Figuras\Programmable Systems\ZyboTeachingSystem.png<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">XADC</td>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">65</td>
 </tr>
 <tr>
