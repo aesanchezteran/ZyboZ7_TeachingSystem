@@ -270,34 +270,34 @@
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">T14</td>
 </tr>
 <tr style="background-color: #f4f7fb;">
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">eoc_out_0</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD2</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">P14</td>
-</tr>
-<tr>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">UART_0_0_rxd</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD3</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">U14</td>
-</tr>
-<tr style="background-color: #f4f7fb;">
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">pwm0_0</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD4</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">V17</td>
-</tr>
-<tr>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">busy_out_0</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD7</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD2</td>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">T15</td>
+</tr>
+<tr>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">eoc_out_0_rxd</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD3</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">P14</td>
 </tr>
 <tr style="background-color: #f4f7fb;">
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">eos_out_0</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD8</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD4</td>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">R14</td>
 </tr>
 <tr>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">UART_0_0_rxd</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD7</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">U14</td>
+</tr>
+<tr style="background-color: #f4f7fb;">
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">UART_0_0_txd</td>
-<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD9</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD8</td>
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">U15</td>
+</tr>
+<tr>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">pwm0_0</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">JD9</td>
+<td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">V17</td>
 </tr>
 <tr style="background-color: #f4f7fb;">
 <td style="padding: 9px; border: 1px solid #8eaadb; text-align: center;">cols_0[3]</td>
